@@ -141,9 +141,9 @@ function renderStartScreen() {
     ctx.font = 'bold 48px monospace';
     ctx.textAlign = 'center';
     ctx.fillStyle = 'rgba(0,0,0,0.4)';
-    ctx.fillText('水鉄砲 vs ボール', CANVAS_WIDTH / 2 + 2, 202);
+    ctx.fillText('メタモンの富士山冒険', CANVAS_WIDTH / 2 + 2, 202);
     ctx.fillStyle = '#FFFFFF';
-    ctx.fillText('水鉄砲 vs ボール', CANVAS_WIDTH / 2, 200);
+    ctx.fillText('メタモンの富士山冒険', CANVAS_WIDTH / 2, 200);
 
     // サブタイトル
     ctx.fillStyle = 'rgba(0,0,0,0.3)';
